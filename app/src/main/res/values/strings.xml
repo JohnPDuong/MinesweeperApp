@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">duon3457MinesweeperAndroid</string>
+    <string name="sNewGame">New Game</string>
+    <string name="sAbout">About</string>
+    <string name="sEasy">Easy</string>
+    <string name="sMedium">Medium</string>
+    <string name="sHard">Hard</string>
+    <string name="sGameDifficulty">Game Difficulty</string>
+    <string name="sGameSeed">Game Randomness</string>
+    <string name="sZero">Seed Zero</string>
+    <string name="sRandom">Seed Time Of Day</string>
+    <string name="sImportant">Click to start playing right away!
+        Choosing a different difficulty or seed will immediately start a new game.
+        When you win, there will be an alert dialog, click on continue to start a new game.
+        When you lose, there will be a sound that plays, indicating you lost.
+        Touching the screen will start a new game.</string>
+    <string name="sVersion">v1.0</string>
+    <string name="sEmail">duon3457@pacificu.edu</string>
+    <string name="sImgURL">
+        https://lh3.googleusercontent.com/proxy/Wvlhhb7mAlhv0WbPV1DZjzrv5Gn6xZL6qs7
+        1wvrJiRlhXqxPEeR8XaFgMNvO5utqBxBjI2e8EnTt_uX-U_dnQlLt1owZrHit3jvvgu4nryu2oA
+    </string>
+</resources>

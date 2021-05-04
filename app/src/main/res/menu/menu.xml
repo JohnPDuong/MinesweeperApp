@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menuDifficulty"
+        android:title="@string/sGameDifficulty"
+        app:showAsAction="never">
+        <menu>
+            <item
+                android:id="@+id/menuDifficultyEasy"
+                android:title="@string/sEasy" />
+            <item
+                android:id="@+id/menuDifficultyMedium"
+                android:title="@string/sMedium" />
+            <item
+                android:id="@+id/menuDifficultyHard"
+                android:title="@string/sHard" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/menuSeed"
+        android:title="@string/sGameSeed"
+        app:showAsAction="never">
+        <menu>
+            <item
+                android:id="@+id/seedZero"
+                android:title="@string/sZero" />
+            <item
+                android:id="@+id/seedTimeOfDay"
+                android:title="@string/sRandom" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/menuAbout"
+        app:showAsAction="never"
+        android:title="@string/sAbout"/>
+</menu>
